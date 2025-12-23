@@ -70,3 +70,42 @@
 - Logout option is available in the Settings menu
 - User is returned to the Login screen after logout
 - Persistent login data is cleared upon logout
+
+## Home Page
+
+### User Story 6: View Welcome Message
+**As a** logged-in user  
+**I want** to see a welcome message or motivational quote on the Home page  
+**So that** I feel encouraged and oriented when I open the app  
+
+**Acceptance Criteria**
+- A welcome message is displayed at the top of the Home page
+- Message includes the user’s name when available
+- Message updates appropriately on each app launch or session
+- Welcome content does not block access to main features
+
+---
+
+### User Story 7: View Learning Progress
+**As a** user  
+**I want** to see my learning progress on the Home page  
+**So that** I can track how much of the musculoskeletal content I have completed  
+
+**Acceptance Criteria**
+- Progress is displayed visually (e.g., progress bar or percentage)
+- Progress reflects completed anatomy modules or lessons
+- Progress updates automatically when new content is completed
+- Progress data persists across app sessions
+
+---
+
+### User Story 8: View Completed Tasks or Modules
+**As a** user  
+**I want** to view a list of completed tasks or lessons  
+**So that** I can review what I have already learned  
+
+**Acceptance Criteria**
+- Completed tasks or modules are clearly labeled
+- List shows completion date or status indicator
+- Completed items are read-only
+- User can navigate from a completed item to review content if desired
