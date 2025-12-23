@@ -109,3 +109,43 @@
 - List shows completion date or status indicator
 - Completed items are read-only
 - User can navigate from a completed item to review content if desired
+
+## Menu & Navigation
+
+### User Story 9: Access Menu Options
+**As a** user  
+**I want** to access a menu from anywhere in the app  
+**So that** I can easily navigate between different sections  
+
+**Acceptance Criteria**
+- Menu is accessible from all primary screens
+- Menu opens with a clear and consistent gesture (e.g., icon or swipe)
+- Menu displays a list of available navigation options
+- Menu closes when a selection is made or dismissed
+
+---
+
+### User Story 10: Navigate to Profile
+**As a** user  
+**I want** to navigate to my profile from the menu  
+**So that** I can view or manage my account information  
+
+**Acceptance Criteria**
+- Profile option is clearly labeled in the menu
+- Selecting Profile navigates the user to the Profile screen
+- User profile information is displayed correctly
+- User can return to the previous screen or Home page from the Profile screen
+
+---
+
+### User Story 11: Navigate to Home Page
+**As a** user  
+**I want** to return to the Home page using the menu  
+**So that** I can quickly access my learning overview  
+
+**Acceptance Criteria**
+- Home option is available in the menu
+- Selecting Home navigates the user to the Home page
+- Navigation occurs without losing user state
+- Menu closes automatically after navigation
+
