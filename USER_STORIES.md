@@ -287,3 +287,68 @@
 - Updated information is persisted across app sessions
 - User receives feedback upon successful update
 
+## Tasks & Progress Management
+
+### User Story 16: Add New Tasks
+**As a** user  
+**I want** to add new learning tasks or activities  
+**So that** I can organize what I plan to study or complete  
+
+**Acceptance Criteria**
+- User can create a new task from the Tasks screen
+- Task includes a title and optional description
+- Task is added to the active task list
+- Newly added tasks are saved persistently
+- User receives confirmation when a task is created
+
+---
+
+### User Story 17: Delete Tasks
+**As a** user  
+**I want** to delete tasks I no longer need  
+**So that** I can keep my task list organized  
+
+**Acceptance Criteria**
+- User can select a task to delete
+- System requests confirmation before deletion
+- Deleted task is removed from the list immediately
+- Deleted task does not reappear after app restart
+
+---
+
+### User Story 18: Reorder or Move Tasks
+**As a** user  
+**I want** to reorder or move tasks within my task list  
+**So that** I can prioritize my learning activities  
+
+**Acceptance Criteria**
+- User can move tasks up or down in the list
+- Task order updates immediately in the UI
+- Task order is saved persistently
+- Reordering does not affect task content
+
+---
+
+### User Story 19: Personalize Tasks
+**As a** user  
+**I want** to personalize my tasks  
+**So that** they match my learning preferences and goals  
+
+**Acceptance Criteria**
+- User can customize task details (e.g., notes, priority, tags)
+- Personalized attributes are displayed with the task
+- Changes to tasks are saved persistently
+- User can update or remove personalization at any time
+
+---
+
+### User Story 20: Track Task Completion
+**As a** user  
+**I want** to mark tasks as completed  
+**So that** I can track my learning progress  
+
+**Acceptance Criteria**
+- User can mark a task as completed
+- Completed tasks are visually distinguished
+- Completion status updates progress indicators
+- Completed tasks remain accessible for review
