@@ -118,34 +118,145 @@
 **So that** I can easily navigate between different sections  
 
 **Acceptance Criteria**
-- Menu is accessible from all primary screens
-- Menu opens with a clear and consistent gesture (e.g., icon or swipe)
-- Menu displays a list of available navigation options
-- Menu closes when a selection is made or dismissed
+- Menu is accessible from all main screens
+- Menu opens and closes smoothly
+- Menu displays clearly labeled navigation options
+- Current active screen is visually indicated
 
 ---
 
 ### User Story 10: Navigate to Profile
 **As a** user  
 **I want** to navigate to my profile from the menu  
-**So that** I can view or manage my account information  
+**So that** I can view and manage my personal information  
 
 **Acceptance Criteria**
-- Profile option is clearly labeled in the menu
-- Selecting Profile navigates the user to the Profile screen
-- User profile information is displayed correctly
-- User can return to the previous screen or Home page from the Profile screen
+- Profile option is visible in the menu
+- Selecting Profile navigates to the Profile screen
+- Profile screen displays user-specific information
+- Navigation does not reset app state unnecessarily
 
 ---
 
-### User Story 11: Navigate to Home Page
+### User Story 11: Return to Home Page
 **As a** user  
 **I want** to return to the Home page using the menu  
 **So that** I can quickly access my learning overview  
 
 **Acceptance Criteria**
 - Home option is available in the menu
-- Selecting Home navigates the user to the Home page
-- Navigation occurs without losing user state
-- Menu closes automatically after navigation
+- Selecting Home navigates to the Home page
+- Home page loads without data loss
+- Navigation transition is consistent with the rest of the app
+
+---
+
+## Menu & Navigation
+
+### User Story 9: Access Menu Options
+**As a** user  
+**I want** to access a menu from anywhere in the app  
+**So that** I can easily navigate between different sections  
+
+**Acceptance Criteria**
+- Menu is accessible from all main screens
+- Menu opens and closes smoothly
+- Menu displays clearly labeled navigation options
+- Current active screen is visually indicated
+
+---
+
+### User Story 10: Navigate to Profile
+**As a** user  
+**I want** to navigate to my profile from the menu  
+**So that** I can view and manage my personal information  
+
+**Acceptance Criteria**
+- Profile option is visible in the menu
+- Selecting Profile navigates to the Profile screen
+- Profile screen displays user-specific information
+- Navigation does not reset app state unnecessarily
+
+---
+
+### User Story 11: Return to Home Page
+**As a** user  
+**I want** to return to the Home page using the menu  
+**So that** I can quickly access my learning overview  
+
+**Acceptance Criteria**
+- Home option is available in the menu
+- Selecting Home navigates to the Home page
+- Home page loads without data loss
+- Navigation transition is consistent with the rest of the app
+
+---
+
+## Menu & Navigation
+
+### User Story 9: Access Menu Options
+**As a** user  
+**I want** to access a menu from anywhere in the app  
+**So that** I can easily navigate between different sections  
+
+**Acceptance Criteria**
+- Menu is accessible from all main screens
+- Menu opens and closes smoothly
+- Menu displays clearly labeled navigation options
+- Current active screen is visually indicated
+
+---
+
+### User Story 10: Navigate to Profile
+**As a** user  
+**I want** to navigate to my profile from the menu  
+**So that** I can view and manage my personal information  
+
+**Acceptance Criteria**
+- Profile option is visible in the menu
+- Selecting Profile navigates to the Profile screen
+- Profile screen displays user-specific information
+- Navigation does not reset app state unnecessarily
+
+---
+
+### User Story 11: Return to Home Page
+**As a** user  
+**I want** to return to the Home page using the menu  
+**So that** I can quickly access my learning overview  
+
+**Acceptance Criteria**
+- Home option is available in the menu
+- Selecting Home navigates to the Home page
+- Home page loads without data loss
+- Navigation transition is consistent with the rest of the app
+
+---
+
+## Detailed Content Screen
+
+### User Story 12: View Detailed Content Information
+**As a** user  
+**I want** to view detailed information about a musculoskeletal topic  
+**So that** I can better understand the anatomy or concept being presented  
+
+**Acceptance Criteria**
+- Detailed screen displays a clear title for the topic
+- Screen includes descriptive content (text, images, or diagrams)
+- Content is readable and well-structured
+- User can scroll through longer content if necessary
+
+---
+
+### User Story 13: View Instructions or Task Description
+**As a** user  
+**I want** to see instructions or an explanation of the task on the detailed screen  
+**So that** I know what I am expected to learn or complete  
+
+**Acceptance Criteria**
+- Instructions are clearly visible on the detailed screen
+- Instructions explain the purpose of the task or content
+- Instructions are concise and easy to understand
+- User can revisit instructions at any time on the screen
+
 
