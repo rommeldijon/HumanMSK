@@ -404,3 +404,46 @@
 - Pending tasks are sorted logically (e.g., by priority or due date)
 - Pending tasks update when task status changes
 - User can navigate from a pending task to take action
+
+## Notifications & Reminders
+
+### User Story 25: Enable or Disable Notifications
+**As a** user  
+**I want** to enable or disable notifications  
+**So that** I can control when and how I receive reminders  
+
+**Acceptance Criteria**
+- User can toggle notifications on or off from the Notifications screen
+- Notification status is clearly indicated
+- Disabled notifications stop all reminders
+- Notification preference is saved persistently
+- Changes take effect immediately
+
+---
+
+### User Story 26: Add Task Reminder
+**As a** user  
+**I want** to add a reminder for a task  
+**So that** I am notified when it is time to work on it  
+
+**Acceptance Criteria**
+- User can create a reminder linked to a specific task
+- User can select date and time for the reminder
+- Reminder is saved persistently
+- User receives confirmation when a reminder is created
+- Reminder triggers a notification at the scheduled time
+
+---
+
+### User Story 27: Set Notification Calendar
+**As a** user  
+**I want** to schedule reminders using a calendar view  
+**So that** I can plan my learning activities in advance  
+
+**Acceptance Criteria**
+- Calendar view displays scheduled reminders
+- User can select dates directly from the calendar
+- User can edit or remove existing reminders
+- Calendar reflects the most up-to-date reminder information
+- Changes persist across app sessions
+
