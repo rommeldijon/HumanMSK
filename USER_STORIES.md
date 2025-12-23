@@ -1,9 +1,8 @@
-# Human Musculoskeletal Learning App
-## User Stories
-# Human Musculoskeletal Learning App (humanMSK)
+
+# Human Musculoskeletal Learning App (HumanMSK)
 ## User Stories
 
-## Authentication & Account Management
+## Login/registration page
 
 ### User Story 1: Account Registration
 **As a** new user  
