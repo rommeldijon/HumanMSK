@@ -259,4 +259,31 @@
 - Instructions are concise and easy to understand
 - User can revisit instructions at any time on the screen
 
+## Profile Page
+
+### User Story 14: View Profile Information
+**As a** logged-in user  
+**I want** to view my personal account information  
+**So that** I can review the details associated with my account  
+
+**Acceptance Criteria**
+- Profile screen displays user information (e.g., name, username/email)
+- Information shown reflects the most recently saved data
+- Profile information is read-only by default
+- Profile data loads securely and efficiently
+
+---
+
+### User Story 15: Edit Profile Information
+**As a** user  
+**I want** to edit my personal registration details  
+**So that** I can keep my account information up to date  
+
+**Acceptance Criteria**
+- User can enter an edit mode from the Profile screen
+- Editable fields are clearly indicated
+- Input validation is applied to updated fields
+- User can save or cancel changes
+- Updated information is persisted across app sessions
+- User receives feedback upon successful update
 
