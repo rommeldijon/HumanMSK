@@ -352,3 +352,55 @@
 - Completed tasks are visually distinguished
 - Completion status updates progress indicators
 - Completed tasks remain accessible for review
+
+## Reports & Progress Overview
+
+### User Story 21: View Daily Task Report
+**As a** user  
+**I want** to view a daily report of my tasks  
+**So that** I can understand what I have accomplished today  
+
+**Acceptance Criteria**
+- Daily report displays tasks scheduled or completed for the current day
+- Completed and pending tasks are clearly distinguished
+- Report updates automatically when task status changes
+- Daily data reflects the most recent task information
+
+---
+
+### User Story 22: View Weekly Task Report
+**As a** user  
+**I want** to view a weekly summary of my tasks  
+**So that** I can track my learning progress over time  
+
+**Acceptance Criteria**
+- Weekly report shows tasks grouped by day
+- Completed and pending tasks are visually differentiated
+- Summary reflects accurate task completion data
+- Weekly report persists across sessions
+
+---
+
+### User Story 23: View Completed Tasks
+**As a** user  
+**I want** to view a list of completed tasks  
+**So that** I can review what I have already finished  
+
+**Acceptance Criteria**
+- Completed tasks are displayed in a dedicated section
+- Each completed task shows completion status or date
+- Completed tasks are read-only
+- User can review task details if needed
+
+---
+
+### User Story 24: View Pending Tasks
+**As a** user  
+**I want** to view tasks that are still pending  
+**So that** I know what remains to be completed  
+
+**Acceptance Criteria**
+- Pending tasks are clearly labeled
+- Pending tasks are sorted logically (e.g., by priority or due date)
+- Pending tasks update when task status changes
+- User can navigate from a pending task to take action
