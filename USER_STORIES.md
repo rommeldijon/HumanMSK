@@ -447,3 +447,30 @@
 - Calendar reflects the most up-to-date reminder information
 - Changes persist across app sessions
 
+## Task Sharing & Recommendations
+
+### User Story 28: Share Tasks with Others
+**As a** user  
+**I want** to share tasks with friends or family  
+**So that** I can recommend learning activities and stay accountable  
+
+**Acceptance Criteria**
+- User can select a task to share
+- Sharing options include social media, email, and messaging apps
+- Shared content includes task title and brief description
+- Sharing uses the device’s native sharing options
+- User remains in the app after sharing is completed or canceled
+
+---
+
+### User Story 29: Recommend Tasks
+**As a** user  
+**I want** to recommend tasks to others  
+**So that** I can encourage learning and collaboration  
+
+**Acceptance Criteria**
+- User can mark a task as recommended before sharing
+- Recommended tasks are clearly labeled
+- Shared recommendations include optional personal message
+- Recommendation action does not alter the original task
+
