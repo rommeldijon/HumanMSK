@@ -2,9 +2,20 @@
 # Human Musculoskeletal Learning App (HumanMSK)
 ## User Stories
 
+## User Story Labels Legend
+
+- **Auth** – Authentication and account-related features  
+- **Core Feature** – Required for basic app functionality  
+- **Enhancement** – Improves user experience but not strictly required  
+- **High Priority** – Must be implemented first  
+- **Medium Priority** – Implement after core features  
+- **Low Priority** – Optional or polish features  
+
 ## Login/registration page
 
 ### User Story 1: Account Registration
+**Labels:** Auth, Core Feature, High Priority
+
 **As a** new user  
 **I want** to create an account using my personal details  
 **So that** I can access the Human Musculoskeletal learning app and save my progress  
