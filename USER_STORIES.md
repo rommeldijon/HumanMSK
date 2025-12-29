@@ -31,6 +31,8 @@
 ---
 
 ### User Story 2: User Login
+**Labels:** Auth, Core Feature, High Priority
+
 **As a** returning user  
 **I want** to log in using my credentials  
 **So that** I can continue learning where I left off  
@@ -45,6 +47,8 @@
 ---
 
 ### User Story 3: Error Feedback for Invalid Credentials
+**Labels:** Auth, Core Feature, High Priority
+
 **As a** user  
 **I want** clear error feedback when I enter incorrect login information  
 **So that** I understand what went wrong and how to fix it  
@@ -60,6 +64,8 @@
 ---
 
 ### User Story 4: Input Validation Feedback
+**Labels:** Auth, Core Feature, High Priority
+
 **As a** user  
 **I want** immediate validation feedback during login and registration  
 **So that** I can correct mistakes before submitting  
@@ -73,6 +79,8 @@
 ---
 
 ### User Story 5: Logout
+**Labels:** Auth, Core Feature, Medium Priority
+
 **As a** logged-in user  
 **I want** the ability to log out  
 **So that** I can protect my account on shared devices  
@@ -85,6 +93,8 @@
 ## Home Page
 
 ### User Story 6: View Welcome Message
+**Labels:** Home, Enhancement, Low Priority
+
 **As a** logged-in user  
 **I want** to see a welcome message or motivational quote on the Home page  
 **So that** I feel encouraged and oriented when I open the app  
@@ -98,6 +108,8 @@
 ---
 
 ### User Story 7: View Learning Progress
+**Labels:** Home, Core Feature, High Priority
+
 **As a** user  
 **I want** to see my learning progress on the Home page  
 **So that** I can track how much of the musculoskeletal content I have completed  
@@ -111,6 +123,8 @@
 ---
 
 ### User Story 8: View Completed Tasks or Modules
+**Labels:** Home, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to view a list of completed tasks or lessons  
 **So that** I can review what I have already learned  
@@ -124,6 +138,8 @@
 ## Menu & Navigation
 
 ### User Story 9: Access Menu Options
+**Labels:** Navigation, Core Feature, High Priority
+
 **As a** user  
 **I want** to access a menu from anywhere in the app  
 **So that** I can easily navigate between different sections  
@@ -137,6 +153,8 @@
 ---
 
 ### User Story 10: Navigate to Profile
+**Labels:** Navigation, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to navigate to my profile from the menu  
 **So that** I can view and manage my personal information  
@@ -150,88 +168,8 @@
 ---
 
 ### User Story 11: Return to Home Page
-**As a** user  
-**I want** to return to the Home page using the menu  
-**So that** I can quickly access my learning overview  
+**Labels:** Navigation, Core Feature, High Priority
 
-**Acceptance Criteria**
-- Home option is available in the menu
-- Selecting Home navigates to the Home page
-- Home page loads without data loss
-- Navigation transition is consistent with the rest of the app
-
----
-
-## Menu & Navigation
-
-### User Story 9: Access Menu Options
-**As a** user  
-**I want** to access a menu from anywhere in the app  
-**So that** I can easily navigate between different sections  
-
-**Acceptance Criteria**
-- Menu is accessible from all main screens
-- Menu opens and closes smoothly
-- Menu displays clearly labeled navigation options
-- Current active screen is visually indicated
-
----
-
-### User Story 10: Navigate to Profile
-**As a** user  
-**I want** to navigate to my profile from the menu  
-**So that** I can view and manage my personal information  
-
-**Acceptance Criteria**
-- Profile option is visible in the menu
-- Selecting Profile navigates to the Profile screen
-- Profile screen displays user-specific information
-- Navigation does not reset app state unnecessarily
-
----
-
-### User Story 11: Return to Home Page
-**As a** user  
-**I want** to return to the Home page using the menu  
-**So that** I can quickly access my learning overview  
-
-**Acceptance Criteria**
-- Home option is available in the menu
-- Selecting Home navigates to the Home page
-- Home page loads without data loss
-- Navigation transition is consistent with the rest of the app
-
----
-
-## Menu & Navigation
-
-### User Story 9: Access Menu Options
-**As a** user  
-**I want** to access a menu from anywhere in the app  
-**So that** I can easily navigate between different sections  
-
-**Acceptance Criteria**
-- Menu is accessible from all main screens
-- Menu opens and closes smoothly
-- Menu displays clearly labeled navigation options
-- Current active screen is visually indicated
-
----
-
-### User Story 10: Navigate to Profile
-**As a** user  
-**I want** to navigate to my profile from the menu  
-**So that** I can view and manage my personal information  
-
-**Acceptance Criteria**
-- Profile option is visible in the menu
-- Selecting Profile navigates to the Profile screen
-- Profile screen displays user-specific information
-- Navigation does not reset app state unnecessarily
-
----
-
-### User Story 11: Return to Home Page
 **As a** user  
 **I want** to return to the Home page using the menu  
 **So that** I can quickly access my learning overview  
@@ -247,6 +185,8 @@
 ## Detailed Content Screen
 
 ### User Story 12: View Detailed Content Information
+**Labels:** Content, Core Feature, High Priority
+
 **As a** user  
 **I want** to view detailed information about a musculoskeletal topic  
 **So that** I can better understand the anatomy or concept being presented  
@@ -260,6 +200,8 @@
 ---
 
 ### User Story 13: View Instructions or Task Description
+**Labels:** Content, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to see instructions or an explanation of the task on the detailed screen  
 **So that** I know what I am expected to learn or complete  
@@ -273,6 +215,8 @@
 ## Profile Page
 
 ### User Story 14: View Profile Information
+**Labels:** Profile, Core Feature, Medium Priority
+
 **As a** logged-in user  
 **I want** to view my personal account information  
 **So that** I can review the details associated with my account  
@@ -286,6 +230,8 @@
 ---
 
 ### User Story 15: Edit Profile Information
+**Labels:** Profile, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to edit my personal registration details  
 **So that** I can keep my account information up to date  
@@ -301,6 +247,8 @@
 ## Tasks & Progress Management
 
 ### User Story 16: Add New Tasks
+**Labels:** Tasks, Core Feature, High Priority
+
 **As a** user  
 **I want** to add new learning tasks or activities  
 **So that** I can organize what I plan to study or complete  
@@ -315,6 +263,8 @@
 ---
 
 ### User Story 17: Delete Tasks
+**Labels:** Tasks, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to delete tasks I no longer need  
 **So that** I can keep my task list organized  
@@ -328,6 +278,8 @@
 ---
 
 ### User Story 18: Reorder or Move Tasks
+**Labels:** Tasks, Enhancement, Medium Priority
+
 **As a** user  
 **I want** to reorder or move tasks within my task list  
 **So that** I can prioritize my learning activities  
@@ -341,6 +293,8 @@
 ---
 
 ### User Story 19: Personalize Tasks
+**Labels:** Tasks, Enhancement, Low Priority
+
 **As a** user  
 **I want** to personalize my tasks  
 **So that** they match my learning preferences and goals  
@@ -354,6 +308,8 @@
 ---
 
 ### User Story 20: Track Task Completion
+**Labels:** Tasks, Core Feature, High Priority
+
 **As a** user  
 **I want** to mark tasks as completed  
 **So that** I can track my learning progress  
@@ -367,6 +323,8 @@
 ## Reports & Progress Overview
 
 ### User Story 21: View Daily Task Report
+**Labels:** Reports, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to view a daily report of my tasks  
 **So that** I can understand what I have accomplished today  
@@ -380,6 +338,8 @@
 ---
 
 ### User Story 22: View Weekly Task Report
+**Labels:** Reports, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to view a weekly summary of my tasks  
 **So that** I can track my learning progress over time  
@@ -393,6 +353,8 @@
 ---
 
 ### User Story 23: View Completed Tasks
+**Labels:** Reports, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to view a list of completed tasks  
 **So that** I can review what I have already finished  
@@ -406,6 +368,8 @@
 ---
 
 ### User Story 24: View Pending Tasks
+**Labels:** Reports, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to view tasks that are still pending  
 **So that** I know what remains to be completed  
@@ -419,6 +383,8 @@
 ## Notifications & Reminders
 
 ### User Story 25: Enable or Disable Notifications
+**Labels:** Notifications, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to enable or disable notifications  
 **So that** I can control when and how I receive reminders  
@@ -433,6 +399,8 @@
 ---
 
 ### User Story 26: Add Task Reminder
+**Labels:** Notifications, Core Feature, Medium Priority
+
 **As a** user  
 **I want** to add a reminder for a task  
 **So that** I am notified when it is time to work on it  
@@ -447,6 +415,8 @@
 ---
 
 ### User Story 27: Set Notification Calendar
+**Labels:** Notifications, Enhancement, Low Priority
+
 **As a** user  
 **I want** to schedule reminders using a calendar view  
 **So that** I can plan my learning activities in advance  
@@ -461,6 +431,8 @@
 ## Task Sharing & Recommendations
 
 ### User Story 28: Share Tasks with Others
+**Labels:** Sharing, Enhancement, Medium Priority
+
 **As a** user  
 **I want** to share tasks with friends or family  
 **So that** I can recommend learning activities and stay accountable  
@@ -475,6 +447,8 @@
 ---
 
 ### User Story 29: Recommend Tasks
+**Labels:** Sharing, Enhancement, Low Priority
+
 **As a** user  
 **I want** to recommend tasks to others  
 **So that** I can encourage learning and collaboration  
