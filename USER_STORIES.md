@@ -485,3 +485,33 @@
 - Shared recommendations include optional personal message
 - Recommendation action does not alter the original task
 
+## Settings & Personalization
+
+### User Story 30: Change App Theme
+**Labels:** Settings, Core Feature, Medium Priority  
+
+**As a** user  
+**I want** to change the app theme (e.g., light or dark mode)  
+**So that** I can personalize the app to my visual preference  
+
+**Acceptance Criteria**
+- User can switch between light and dark mode from the Settings screen
+- Theme change is applied immediately
+- Selected theme is saved persistently
+- Theme preference is restored when the app is reopened
+
+---
+
+### User Story 31: Toggle App Appearance Settings
+**Labels:** Settings, Enhancement, Low Priority  
+
+**As a** user  
+**I want** to toggle additional appearance settings (e.g., themes or display options)  
+**So that** I can customize how the app looks and feels  
+
+**Acceptance Criteria**
+- User can enable or disable available appearance options
+- Changes are reflected immediately in the UI
+- Appearance preferences are saved persistently
+- User can revert to default settings at any time
+
